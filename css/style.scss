@@ -375,7 +375,7 @@
 
             .calendar-item.open & {
                 opacity: 1;
-                max-height: 3000px;
+                max-height: 3500px;
                 /* 中身が入る最大想定値 */
                 transform: translateY(0);
                 margin-bottom: 8px;
@@ -466,4 +466,5 @@
             }
         }
     }
+
 }
